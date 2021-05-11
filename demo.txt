@@ -8,3 +8,4 @@ forth line
 
 somecontent
 here again
+sometext
