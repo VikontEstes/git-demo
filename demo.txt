@@ -1,7 +1,2 @@
-first line
-second line
-third line
-forth line
-
-
-forth line
+1234
+wait
